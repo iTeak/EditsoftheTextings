@@ -8,3 +8,4 @@ The app will be a single-page application that meets the PWA criteria.
  ## Questions?
   ### Reach me here: 
   [iTeak](https://github.com/iTeak) 
+  
