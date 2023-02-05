@@ -10,4 +10,4 @@ The app will be a single-page application that meets the PWA criteria.
   [iTeak](https://github.com/iTeak) 
   ## Links 
   [heroku](https://textingoftheedits.herokuapp.com/)
-  [Githublink]()
+  [Githublink]( https://iteak.github.io/EditsoftheTextings/)
